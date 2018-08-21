@@ -11,3 +11,5 @@ Testando... testando...
 modificação feita pelo vitor
 
 Terceiro insert
+
+testando merge automatico
